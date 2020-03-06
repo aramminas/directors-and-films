@@ -1,0 +1,32 @@
+const movies = [
+    {id: '1', name: 'Conspiracy Theory', genre: 'Action', directorId: '1'},
+    {id: '2', name: 'Six Degrees of Separation', genre: 'Comedy', directorId: '2'},
+    {id: '3', name: 'Vertigo', genre: 'Romance', directorId: '3'},
+    {id: '4', name: 'Sleeping with the Enemy', genre: 'Drama', directorId: '4'},
+    {id: '5', name: 'London Affair', genre: 'Drama', directorId: '1'},
+    {id: '6', name: 'The Omen', genre: ' Horror', directorId: '1'},
+    {id: '7', name: 'Barbarosa', genre: 'Western', directorId: '2'},
+    {id: '8', name: 'The Ottoman Lieutenan', genre: ' Drama', directorId: '4'},
+];
+const movies = [
+    {"name": "Conspiracy Theory", "genre": "Action", "directorId": "5e5e659e5650c4a2ea86f3fa"},
+    {"name": "Six Degrees of Separation", "genre": "Comedy", "directorId": "5e5e65e45650c4a2ea87021d"},
+    {"name": "Vertigo", "genr": "Romance", "directorId": "5e5e65fe5650c4a2ea87084d"},
+    {"name": "Sleeping with the Enemy", "genre": "Drama", "directorId": "5e5e66525650c4a2ea871847"},
+    {"name": "London Affair", "genre": "Drama", "directorId": "5e5e659e5650c4a2ea86f3fa"},
+    {"name": "The Omen", "genre": "Horror", "directorId": "5e5e659e5650c4a2ea86f3fa"},
+    {"name": "Barbarosa", "genre": "Western", "directorId": "5e5e65e45650c4a2ea87021d"},
+    {"name": "The Ottoman Lieutenan", "genre": "Drama", "directorId": "5e5e66525650c4a2ea871847"},
+];
+const directors = [
+    {id: '1', name: 'Richard Donner', age: 31},
+    {id: '2', name: 'Fred Schepisi', age: 42},
+    {id: '3', name: 'Jorge R. Gutiérrez', age: 53},
+    {id: '4', name: 'Joseph Ruben', age: 64},
+];
+const directors = [
+    {"name": "Richard Donner", "age": 31}, //5e5e659e5650c4a2ea86f3fa
+    {"name": "Fred Schepisi", "age": 42}, //5e5e65e45650c4a2ea87021d
+    {"name": "Alfred Hitchcock", "age": 53}, //5e5e65fe5650c4a2ea87084d
+    {"name": "Joseph Ruben", "age": 64}, //5e5e66525650c4a2ea871847
+];
